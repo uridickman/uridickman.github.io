@@ -31,7 +31,7 @@ params:
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -52,48 +52,40 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Uri Dickman
+          subtitle: "I am a researcher at Case Western Reserve University in computational neuroscience. This fall, I will be starting my Ph.D. in Mechanical Engineering at the University of California - Santa Barbara."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          # buttons:
+          #   - name: Papers
+          #     url: papers/
+          #   - name: Courses
+          #     url: courses/
+          #   - name: Data
+          #     url: data/
+          #   - name: Books
+          #     url: books/
+          #   - name: Tags
+          #     url: tags/
+          #   - name: Archive
+          #     url: archive/
+          #   - name: Blog
+          #     url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:uridickman@gmail.com
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://cwru.zoom.us/j/7139360613?pwd=ZKpWC2RXtCIXCxweTKDFRDQZXJ2aO7.1
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/uridickman
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/uri-dickman/
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +93,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Uri Dickman"
       icon: favicon.ico
       iconHeight: 18
 
