@@ -77,7 +77,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:udickman@ucsb.edu
+          url: mailto:uxd25@case.edu
         - name: Location
           url: location/
         - name: GitHub
