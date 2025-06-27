@@ -10,39 +10,26 @@ taxonomies:
 
 menu:
     main:
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
-        - name: Papers
-          url: papers/
-        #   weight: 2
-        # - name: Courses
-        #   url: courses/
-        #   weight: 3
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
-
+        - name: Publications
+          url: publications
+       
 params:
     description: "I am a researcher at Case Western Reserve University in computational neuroscience. This fall, I will be starting my Ph.D. in Mechanical Engineering at the University of California - Santa Barbara."
     author: Uri Dickman
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
+    hideFooter: false 
+    disableThemeToggle: true 
+    ShowShareButtons: false 
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    # MainSections: ["papers"]
+    MainSections: ["publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -51,39 +38,25 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
+          enabled: true 
           title: Uri Dickman
-          subtitle: "I am a researcher at Case Western Reserve University in computational neuroscience. This fall, I will be starting my Ph.D. in Mechanical Engineering at the University of California - Santa Barbara."
+          subtitle: "I am a researcher at Case Western Reserve University in computational neuroscience. I'm an incoming PhD student in Mechanical Engineering at University of California-Santa Barbara. I am working towards a career in developing high-performance computing software with applications to additive manufacturing, solid mechanics, and materials science at a national laboratory."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
-          # buttons:
-          #   - name: Papers
-          #     url: papers/
-          #   - name: Courses
-          #     url: courses/
-          #   - name: Data
-          #     url: data/
-          #   - name: Books
-          #     url: books/
-          #   - name: Tags
-          #     url: tags/
-          #   - name: Archive
-          #     url: archive/
-          #   - name: Blog
-          #     url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          buttons:
+            - name: Publications
+              url: publications
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: Resume
+          url: resume.pdf
         - name: Email
-          url: mailto:uxd25@case.edu
+          url: mailto:udickman@engineering.ucsb.edu
       # - name: Scholar
       #   url: 
         - name: ORCiD
           url: https://orcid.org/0009-0001-5136-7641
-      # - name: Location
-      #   url: location/
         - name: GitHub
           url: https://github.com/uridickman
         - name: LinkedIn
