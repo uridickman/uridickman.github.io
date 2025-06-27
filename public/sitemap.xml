@@ -5,9 +5,6 @@
     <loc>https://uridickman.github.io/location/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://uridickman.github.io/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://uridickman.github.io/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,7 +20,7 @@
     <loc>https://uridickman.github.io/tags/invasive-thoughts/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://uridickman.github.io/papers/</loc>
+    <loc>https://uridickman.github.io/papers_old/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://uridickman.github.io/tags/social-psychology/</loc>
@@ -32,7 +29,10 @@
     <loc>https://uridickman.github.io/tags/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://uridickman.github.io/papers/paper3/</loc>
+    <loc>https://uridickman.github.io/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://uridickman.github.io/papers_old/paper3/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://uridickman.github.io/data/</loc>
@@ -80,7 +80,7 @@
     <loc>https://uridickman.github.io/tags/oleic-science/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://uridickman.github.io/papers/paper1/</loc>
+    <loc>https://uridickman.github.io/papers_old/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://uridickman.github.io/tags/canine-pulmonary-efficiency/</loc>
@@ -95,7 +95,7 @@
     <loc>https://uridickman.github.io/tags/sausage-dogs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://uridickman.github.io/papers/paper2/</loc>
+    <loc>https://uridickman.github.io/papers_old/paper2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://uridickman.github.io/tags/zoology/</loc>
@@ -131,6 +131,10 @@
     <loc>https://uridickman.github.io/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://uridickman.github.io/papers/papers/</loc>
+  </url><url>
     <loc>https://uridickman.github.io/archive/</loc>
+  </url><url>
+    <loc>https://uridickman.github.io/papers/</loc>
   </url>
 </urlset>

@@ -8,13 +8,13 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-# menu:
-#     main:
+menu:
+    main:
         # - name: Books
         #   url: books/
         #   weight: 5 
-        # - name: Papers
-        #   url: papers/
+        - name: Papers
+          url: papers/
         #   weight: 2
         # - name: Courses
         #   url: courses/
@@ -78,8 +78,12 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:uxd25@case.edu
-        - name: Location
-          url: location/
+      # - name: Scholar
+      #   url: 
+        - name: ORCiD
+          url: https://orcid.org/0009-0001-5136-7641
+      # - name: Location
+      #   url: location/
         - name: GitHub
           url: https://github.com/uridickman
         - name: LinkedIn
