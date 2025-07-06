@@ -17,7 +17,7 @@ menu:
     main:
         - name: Dashboard
           weight: 1
-          url: /
+          url: https://uridickman.github.io
         - name: Publications
           weight: 2
           url: publications
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["dashboard","publications","code"]
+    MainSections: ["publications","code"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
