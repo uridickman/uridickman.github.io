@@ -15,11 +15,18 @@ taxonomies:
 
 menu:
     main:
+        - name: Dashboard
+          weight: 1
+          url: /
         - name: Publications
+          weight: 2
           url: publications
+        - name: Code
+          weight: 3
+          url: code/
        
 params:
-    description: "I am a researcher at Case Western Reserve University in computational neuroscience. This fall, I will be starting my Ph.D. in Mechanical Engineering at the University of California - Santa Barbara."
+    description: "This website hosts Uri Dickmnan's resume, contact information, publications, and codes."
     author: Uri Dickman
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -34,7 +41,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications"]
+    MainSections: ["dashboard","publications","code"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,6 +59,8 @@ params:
           buttons:
             - name: Publications
               url: publications
+            - name: Code
+              url: code/
 
     socialIcons:
         - name: Resume
@@ -74,8 +83,8 @@ params:
         hiddenInSingle: true
     label:
       text: "Uri Dickman"
-      icon: favicon.ico
-      iconHeight: 18
+      #icon: favicon.ico
+      #iconHeight: 18
 
 markup:
     goldmark:
