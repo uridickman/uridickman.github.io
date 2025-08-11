@@ -81,7 +81,7 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: true
-    label:
+    #label:
       #text: "Uri Dickman"
       #icon: favicon.ico
       #iconHeight: 18
