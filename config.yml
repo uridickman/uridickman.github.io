@@ -81,10 +81,10 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: true
-    #label:
-      #text: "Uri Dickman"
-      #icon: favicon.ico
-      #iconHeight: 18
+    label:
+      text: "Uri Dickman"
+      icon: favicon.ico
+      iconHeight: 18
 
 markup:
     goldmark:
