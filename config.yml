@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true 
           title: Uri Dickman
-          subtitle: "I am a researcher at Case Western Reserve University in computational neuroscience. I'm an incoming PhD student in Mechanical Engineering at University of California-Santa Barbara. I am working towards a career in developing high-performance computing software with applications to additive manufacturing, solid mechanics, and materials science at a national laboratory."
+          subtitle: "I am a first year PhD student in Mechanical Engineering at University of California-Santa Barbara. My research focus is on the application of modern machine learning and generative AI techniques to understanding the mechanical properties of materials. I am working towards a career in developing high-performance computing software at a national laboratory."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
