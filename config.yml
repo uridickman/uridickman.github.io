@@ -65,6 +65,8 @@ params:
     socialIcons:
         - name: Resume
           url: resume.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:udickman@engineering.ucsb.edu
       # - name: Scholar
