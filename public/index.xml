@@ -12,7 +12,7 @@
       <link>https://uridickman.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://uridickman.github.io/publications/</guid>
-      <description>Publications Dickman et al., (2026) Abstract NEURON has been widely used as an empirically-based simulation tool, especially for multi-compartment conductance-based neuronal modeling. We created a Python tool called NEURONpyxl that reads parameters from a spreadsheet to construct full neural networks, making it easier to create complex models in the NEURON simulation environment, incorporating short-term forms of plasticity such as depression or facilitation. Test simulations from well-understood networks were created in NEURONpyxl, and were observed to be numerically similar to simulations of the same network in another neural simulator, the Simulator for Neural Networks and Action Potentials (SNNAP), which has previously been used to model conductance-based networks that include complex synaptic connections and multiple forms of synaptic plasticity.</description>
+      <description>Publications 2026 Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses Abstract NEURON has been widely used as an empirically-based simulation tool, especially for multi-compartment conductance-based neuronal modeling. We created a Python tool called NEURONpyxl that reads parameters from a spreadsheet to construct full neural networks, making it easier to create complex models in the NEURON simulation environment, incorporating short-term forms of plasticity such as depression or facilitation.</description>
     </item>
     <item>
       <title>NEURONpyxl</title>

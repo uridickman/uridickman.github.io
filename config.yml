@@ -27,7 +27,7 @@ menu:
        
 params:
     description: "This website hosts Uri Dickmnan's resume, contact information, publications, and codes."
-    author: Uri Dickman
+    author:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark 
