@@ -63,14 +63,12 @@ params:
               url: code/
 
     socialIcons:
-        - name: Resume
-          url: resume.pdf
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:udickman@engineering.ucsb.edu
-      # - name: Scholar
-      #   url: 
+        - name: Scholar
+          url: https://scholar.google.com/citations?user=-CkgYK8AAAAJ&hl=en&oi=ao
         - name: ORCiD
           url: https://orcid.org/0009-0001-5136-7641
         - name: GitHub
