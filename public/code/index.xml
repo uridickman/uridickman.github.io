@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://uridickman.github.io/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>adaptive-ode</title>
+      <link>https://uridickman.github.io/code/adaptive-ode/adaptive-ode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uridickman.github.io/code/adaptive-ode/adaptive-ode/</guid>
+      <description>Adaptive solver for Solving Non-stiff ODEs</description>
+    </item>
+    <item>
       <title>NEURONpyxl</title>
       <link>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
