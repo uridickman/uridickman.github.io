@@ -11,4 +11,3 @@ summary: "Uses second-order Predictor-Corrector Linear Multistep Method for solv
 
 + [Methodology](/adaptive-ode.pdf)
 + [Code](https://github.com/uridickman/adaptive-ode/tree/main)
-
