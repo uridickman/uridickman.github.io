@@ -3,7 +3,7 @@ title: "NEURONpyxl"
 date: 
 tags: []
 author: []
-description: "Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses."
+description: "NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses."
 summary: "Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses. Uses spreadsheet-based parameter organization to specify equations of motion. Uses the NEURON simulator engine for network construction and ODE integration."
 
     #cover:

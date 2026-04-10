@@ -12,7 +12,7 @@
       <link>https://uridickman.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://uridickman.github.io/publications/</guid>
-      <description>Publications 2026 Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses Abstract NEURON has been widely used as an empirically-based simulation tool, especially for multi-compartment conductance-based neuronal modeling. We created a Python tool called NEURONpyxl that reads parameters from a spreadsheet to construct full neural networks, making it easier to create complex models in the NEURON simulation environment, incorporating short-term forms of plasticity such as depression or facilitation.</description>
+      <description>Publications 2026 NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses Abstract NEURON has been widely used as an empirically-based simulation tool, especially for multi-compartment conductance-based neuronal modeling. We created a Python tool called NEURONpyxl that reads parameters from a spreadsheet to construct full neural networks, making it easier to create complex models in the NEURON simulation environment, incorporating short-term forms of plasticity such as depression or facilitation.</description>
     </item>
     <item>
       <title>adaptive-ode</title>
@@ -26,7 +26,7 @@
       <link>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</guid>
-      <description>Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses.</description>
+      <description>NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses.</description>
     </item>
   </channel>
 </rss>

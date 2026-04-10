@@ -4,7 +4,7 @@
 
 ## 2026
 
-### Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses
+### NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses
 
 #### Abstract
 
@@ -19,7 +19,7 @@ NEURON has been widely used as an empirically-based simulation tool, especially 
 
 #### Citation
 
-Dickman, U., Thomas, P. J., Chiel, H. J., Byrne, J. H., and Neveu, C. L., (2026). Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses, *Frontiers in Computational Neuroscience*. In review.
+Dickman, U., Thomas, P. J., Chiel, H. J., Byrne, J. H., and Neveu, C. L., (2026). Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses, *Frontiers in Computational Neuroscience*. Accepted.
 
 ```BibTeX
 @article{Dickman-2026-FCNS,
@@ -29,7 +29,7 @@ year    = {2026},
 title   = {NEURONpyxl: Fast, flexible, Python-integrated simulation
           of biophysical neural networks with complex plastic synapses},
 journal = {Frontiers in Computational Neuroscience},
-notes   = {In review}
+notes   = {Accepted}
 ```
 
  ---
