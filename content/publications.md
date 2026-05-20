@@ -12,24 +12,26 @@ NEURON has been widely used as an empirically-based simulation tool, especially 
 
 #### Downloads
 
-+ [Online access](https://www.google.com)
++ [Online access](https://doi.org/10.3389/fncom.2026.1771884)
++ [Download](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1771884/pdf)
 + [Code](https://github.com/CWRUChielLab/neuronpyxl)
 + [Figures](https://github.com/CWRUChielLab/NEURONpyxl-2026-figures)
 + [Accompanying Dataset](https://datadryad.org/dataset/doi:10.5061/dryad.1c59zw488)
 
 #### Citation
 
-Dickman, U., Thomas, P. J., Chiel, H. J., Byrne, J. H., and Neveu, C. L., (2026). Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses, *Frontiers in Computational Neuroscience*. Accepted.
+Dickman U, Thomas PJ, Chiel HJ, Byrne JH and Neveu CL (2026) NEURONpyxl: fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses. *Front. Comput. Neurosci.* 20:1771884. doi: 10.3389/fncom.2026.1771884
 
 ```BibTeX
-@article{Dickman-2026-FCNS,
-author   = {Dickman, Uri and Thomas, Peter J. and Chiel, Hillel J.
-            and Byrne, John H. and Neveu, Curtis L.},
-year    = {2026},
-title   = {NEURONpyxl: Fast, flexible, Python-integrated simulation
-          of biophysical neural networks with complex plastic synapses},
+@article{dickman-2026-fncom,
+author = {Dickman, Uri  and Thomas, Peter J.  and Chiel, Hillel J.  and Byrne, John H.  and Neveu, Curtis L. },
+title = {NEURONpyxl: fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses},
 journal = {Frontiers in Computational Neuroscience},
-notes   = {Accepted}
+volume = {Volume 20 - 2026},
+year = {2026},
+url = {https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1771884},
+doi = {10.3389/fncom.2026.1771884}, 
+issn = {1662-5188}
 ```
 
  ---
@@ -51,12 +53,9 @@ The $3\omega$ method is widely used to measure the thermal conductivity and the 
 Peng, C., Ginzburg, J., Dickman, U., Bair, J., & Kuehne, M. (2025). Thermal characterization of suspended fine wires across continuum to free-molecular gas regimes using the $3\omega$ method. *Physical Review Applied*, 24, 064060.
 
 ```BibTeX
-@article{Peng-2025-PRA,
-  title = {Thermal characterization of suspended fine wires
-           across continuum to free-molecular gas regimes using the
-           3\ensuremath{\omega} method},
-  author = {Peng, Chuyue and Ginzburg, Joshua and Dickman, Uri and
-            Bair, Jacob and Kuehne, Matthias},
+@article{peng-2025-pra,
+  title = {Thermal characterization of suspended fine wires across continuum to free-molecular gas regimes using the 3\ensuremath{\omega} method},
+  author = {Peng, Chuyue and Ginzburg, Joshua and Dickman, Uri and Bair, Jacob and Kuehne, Matthias},
   journal = {Phys. Rev. Appl.},
   volume = {24},
   issue = {6},
