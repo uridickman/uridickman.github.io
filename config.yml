@@ -67,12 +67,12 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:udickman@engineering.ucsb.edu
+        - name: GitHub
+          url: https://github.com/uridickman
         - name: Scholar
           url: https://scholar.google.com/citations?user=-CkgYK8AAAAJ&hl=en&oi=ao
         - name: ORCiD
           url: https://orcid.org/0009-0001-5136-7641
-        - name: GitHub
-          url: https://github.com/uridickman
         - name: LinkedIn
           url: https://www.linkedin.com/in/uri-dickman/
 
