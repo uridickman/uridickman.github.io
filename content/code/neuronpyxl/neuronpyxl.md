@@ -40,22 +40,23 @@ editpost:
 
 ##### Download
 
-+ [Paper](https://www.google.com)
++ [Paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1771884)
 + [Code](https://github.com/CWRUChielLab/neuronpyxl)
 
 ##### Citation
 
-Dickman, U., Thomas, P. J., Chiel, H. J., Byrne, J. H., and Neveu, C. L., (2026) *Frontiers in Computational Neuroscience*. In review.
+Dickman U, Thomas PJ, Chiel HJ, Byrne JH and Neveu CL (2026) NEURONpyxl: fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses. *Front. Comput. Neurosci.* 20:1771884. doi: 10.3389/fncom.2026.1771884
 
 ```BibTeX
-@article{Dickman-2026-FCNS,
-author   = {Uri Dickman, Peter J. Thomas, Hillel J. Chiel,
-          John H. Byrne, and Curtis L. Neveu},
-year    = {2026},
-title   = {NEURONpyxl: Fast, flexible, Python-integrated simulation
-          of biophysical neural networks with complex plastic synapses},
+@article{dickman-2026-fncom,
+author = {Dickman, Uri  and Thomas, Peter J.  and Chiel, Hillel J.  and Byrne, John H.  and Neveu, Curtis L. },
+title = {NEURONpyxl: fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses},
 journal = {Frontiers in Computational Neuroscience},
-notes   = {In review}
+volume = {Volume 20 - 2026},
+year = {2026},
+url = {https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1771884},
+doi = {10.3389/fncom.2026.1771884}, 
+issn = {1662-5188}
 ```
 
 ---
