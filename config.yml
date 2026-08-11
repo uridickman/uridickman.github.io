@@ -30,7 +30,7 @@ menu:
         
 
 params:
-    description: "This website hosts Uri Dickmnan's resume, contact information, publications, and public codes."
+    description: "This website hosts Uri Dickmnan's resume, contact information, research interests, publications, and public codes."
     author:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
