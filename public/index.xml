@@ -2,38 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Uri Dickman</title>
-    <link>https://uridickman.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Uri Dickman</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <atom:link href="https://uridickman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Deep Learning for solving Partial Differential Equations, especially those relevant in engineering applications, is becoming increasingly crucial for (1) developing synthetic data for Foundation Models, and more importantly, (2) real-time predictions of engineering systems. Recent advances have been made in this field including the Neural Operator framework, such as with DeepONet and Fourier Neural Operator, which, equipped with Universal Operator Approximation, can learn the dynamics of operators instead of individual solutions to initial or boundary value problems.</description>
+    </item>
     <item>
       <title></title>
-      <link>https://uridickman.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uridickman.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>Publications 2026 NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses Abstract NEURON has been widely used as an empirically-based simulation tool, especially for multi-compartment conductance-based neuronal modeling. We created a Python tool called NEURONpyxl that reads parameters from a spreadsheet to construct full neural networks, making it easier to create complex models in the NEURON simulation environment, incorporating short-term forms of plasticity such as depression or facilitation.</description>
     </item>
     <item>
       <title>adaptive-ode</title>
-      <link>https://uridickman.github.io/code/adaptive-ode/adaptive-ode/</link>
+      <link>http://localhost:1313/code/adaptive-ode/adaptive-ode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uridickman.github.io/code/adaptive-ode/adaptive-ode/</guid>
+      <guid>http://localhost:1313/code/adaptive-ode/adaptive-ode/</guid>
       <description>Adaptive solver for Solving Non-stiff ODEs</description>
     </item>
     <item>
       <title>coupled-rxd</title>
-      <link>https://uridickman.github.io/code/coupled-rxd/coupled-rxd/</link>
+      <link>http://localhost:1313/code/coupled-rxd/coupled-rxd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uridickman.github.io/code/coupled-rxd/coupled-rxd/</guid>
+      <guid>http://localhost:1313/code/coupled-rxd/coupled-rxd/</guid>
       <description>Solver for N Coupled Reaction-Diffusion Equations in 2-D</description>
     </item>
     <item>
-      <title>NEURONpyxl</title>
-      <link>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</link>
+      <title>miniml</title>
+      <link>http://localhost:1313/code/miniml/miniml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</guid>
+      <guid>http://localhost:1313/code/miniml/miniml/</guid>
+      <description>Implementation of linear and logistic regression, and regression neural networks using only Numpy and standard Python libraries</description>
+    </item>
+    <item>
+      <title>NEURONpyxl</title>
+      <link>http://localhost:1313/code/neuronpyxl/neuronpyxl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/code/neuronpyxl/neuronpyxl/</guid>
       <description>NEURONpyxl: Fast, flexible, Python-integrated simulation of biophysical neural networks with complex plastic synapses.</description>
+    </item>
+    <item>
+      <title>p2d: Poisson solver on irregular domain</title>
+      <link>http://localhost:1313/code/p2d/p2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/code/p2d/p2d/</guid>
+      <description>Solves the Poisson equation on an irregular domain on a Cartesian grid based on the methods from Gibou et al. (2002), J. Comp. Phys.</description>
     </item>
   </channel>
 </rss>

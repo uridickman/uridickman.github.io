@@ -18,13 +18,17 @@ menu:
         - name: Dashboard
           weight: 1
           url: https://uridickman.github.io
-        - name: Publications
+        - name: Research
           weight: 2
+          url: research
+        - name: Publications
+          weight: 3
           url: publications
         - name: Code
-          weight: 3
+          weight: 4
           url: code/
-       
+        
+
 params:
     description: "This website hosts Uri Dickmnan's resume, contact information, publications, and public codes."
     author:
@@ -41,7 +45,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","code"]
+    MainSections: ["research", "publications","code"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,11 +56,13 @@ params:
     profileMode:
           enabled: true 
           title: Uri Dickman
-          subtitle: "I am a first year PhD student in Mechanical Engineering at University of California-Santa Barbara. My research focus is on the application and development of modern deep learning frameworks to help understand the mechanical behavior of materials. I am working towards a career in developing high-performance computing software at a national laboratory."
+          subtitle: "I am a second-year PhD student in Mechanical Engineering at the University of California, Santa Barbara. My research focus is on the development and application of modern deep learning frameworks to help understand the mechanical behavior of fluids and solid materials. I am working towards a career in leading large-scale high-performance computing research projects at a US national laboratory."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Research
+              url: research
             - name: Publications
               url: publications
             - name: Code
