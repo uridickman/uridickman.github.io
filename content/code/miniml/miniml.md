@@ -16,4 +16,4 @@ I plan to expand this code to handle convolutional and graph neural networks to 
 
 ##### Download
 
-+ [Code](https://github.com/uridickman/miniml.git/tree/main)
++ [Code](https://github.com/uridickman/miniml)

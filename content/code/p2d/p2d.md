@@ -51,4 +51,4 @@ Overall, the scheme is second-order in space.
 
 ##### Download
 
-+ [Code](https://github.com/uridickman/poisson-irregular-domain.git)
++ [Code](https://github.com/uridickman/poisson-irregular-domain)
