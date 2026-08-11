@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://uridickman.github.io/research/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://uridickman.github.io/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://uridickman.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/adaptive-ode/adaptive-ode/</loc>
+    <loc>https://uridickman.github.io/code/adaptive-ode/adaptive-ode/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/</loc>
+    <loc>https://uridickman.github.io/code/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/coupled-rxd/coupled-rxd/</loc>
+    <loc>https://uridickman.github.io/code/coupled-rxd/coupled-rxd/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/miniml/miniml/</loc>
+    <loc>https://uridickman.github.io/code/miniml/miniml/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/neuronpyxl/neuronpyxl/</loc>
+    <loc>https://uridickman.github.io/code/neuronpyxl/neuronpyxl/</loc>
   </url><url>
-    <loc>http://localhost:1313/code/p2d/p2d/</loc>
+    <loc>https://uridickman.github.io/code/p2d/p2d/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://uridickman.github.io/tags/</loc>
   </url>
 </urlset>
